@@ -1,2 +1,2 @@
 import streamlit as st
-st.write("Meine Pizzapreisprognose")
+st.title("Meine Pizzapreisprognose")
